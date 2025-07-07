@@ -7,7 +7,7 @@
 <hr>
 <h1>this is a heading</h2>
 <p>this is a paragraph</p>
-<br> <b><i>this is bold and italic</i></b>
+<br> <b>this is bold and <i>italic</i></b>
 <hr>
 </body>
 </html>
